@@ -1,0 +1,20 @@
+Netscape HTTP Cookie File
+
+http://curl.haxx.se/rfc/cookie_spec.html
+
+This is a generated file!  Do not edit.
+
+.spotify.com	TRUE	/	TRUE	1779168997	sp_t	0f07fc750112ca7555ec1f2aa0d3b1c6
+.spotify.com	TRUE	/	TRUE	1747719304	sp_landing	https%3A%2F%2Fopen.spotify.com%2F%3Fsp_cid%3D0f07fc750112ca7555ec1f2aa0d3b1c6%26device%3Dmobile
+.spotify.com	TRUE	/	TRUE	1747634715	_cs_mk_ga	0.857973333839027_1747632915318
+open.spotify.com	FALSE	/	FALSE	0	sss	1
+.spotify.com	TRUE	/	TRUE	1779169006	sp_adid	d96b5d56-a2f5-4c48-a12e-b4f26ce2ffae
+.spotify.com	TRUE	/	FALSE	1747719405	_gid	GA1.2.1436160105.1747632917
+.spotify.com	TRUE	/	TRUE	1782192918	sp_m	ng
+.spotify.com	TRUE	/	FALSE	1779168952	OptanonAlertBoxClosed	2025-05-19T05:35:52.063Z
+.spotify.com	TRUE	/	TRUE	1748842573	sp_dc	AQD9JYJcugEuvg2e5JGEnLa3W04JuIZesKBFTaAA-ICORlNdkRC7_nDySlCJhuX20Xk_xBCcuyF8gnmUKGL8sZJW0fZdokLIb2QBDt35DnPHOgmSQ-osOIi66gOZg1wYzcmyOdgzIZLP1Q107eEP78Db6YCBS44lH3vFyP8ZnhwHBWRVGXRsU7ZjW5SYYCodpS5tDj0cs4EHiTix11A
+.spotify.com	TRUE	/	TRUE	1752816998	sp_gaid	0088fc6f5c4b14cb9ee6203489dbcd628f0f440a15642c50340448
+.spotify.com	TRUE	/	FALSE	1779169006	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+19+2025+06%3A36%3A46+GMT%2B0100+(West+Africa+Standard+Time)&version=202411.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&landingPath=NotLandingPage&groups=s00%3A1%2Cf00%3A1%2Cm00%3A1%2Ct00%3A1%2Ci00%3A1%2Cf11%3A1%2Cm03%3A1&AwaitingReconsent=false&geolocation=NG%3BOY
+.spotify.com	TRUE	/	FALSE	1782193007	_ga_ZWG1NSHWD8	GS2.1.s1747632916$o1$g1$t1747633006$j0$l0$h0
+.spotify.com	TRUE	/	FALSE	1782193007	_ga	GA1.1.666060856.1747632916
+.spotify.com	TRUE	/	FALSE	1782193008	_ga_BMC5VGR8YS	GS2.2.s1747632918$o1$g1$t1747633007$j36$l0$h0$dlIWnPKkeyKtwnYQeXY0eQeh8U_l_NF7eVA
